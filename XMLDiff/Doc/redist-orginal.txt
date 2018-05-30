@@ -1,0 +1,6 @@
+NOTE: This file is superceded by redist.txt. It is kept for completeness and since I am not the original author of these works.
+
+XmlDiff.exe
+XmlDiffPatch.dll
+XmlPatch.exe
+All the samples that are installed in the samples directory

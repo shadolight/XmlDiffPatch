@@ -1,0 +1,8 @@
+XmlDiff.exe
+XmlDiffView.exe
+XmlPatch.exe
+XmlDiffViewGui.exe
+XmlDiffPatch.dll
+XmlDiffPatch.View.dll
+
+All the samples that are installed in the Code directory

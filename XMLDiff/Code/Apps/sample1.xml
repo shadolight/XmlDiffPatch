@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<b>
+  <a>Some text 1</a>
+  <b>Some text 2</b>
+  <c>Some text 3</c>
+  <d>
+    Another text
+    <foo/>
+  </d>
+  <x firstAttr="value1" secondAttr="value2"/>
+  <y>
+    <!--Any comments?-->
+    <z id="10">Just another text</z>
+  </y>
+</b>

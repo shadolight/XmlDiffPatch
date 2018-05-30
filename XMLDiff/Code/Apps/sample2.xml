@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<b>
+  <a>Some text 1</a>
+  <b>Some text 2</b>
+  <c>Some text 3</c>
+  <e>Some text 4</e>
+  <f>Some text 5</f>
+  <d>Changed text</d>
+  <x firstAttr="changed attribute value" newAttr="new value"/>
+  <p>
+    <q>
+      <y>
+        <!--Any comments?-->
+        <z id="10">Just another text</z>
+      </y>
+    </q>
+  </p>
+</b>
