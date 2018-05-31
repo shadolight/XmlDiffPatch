@@ -717,7 +717,7 @@ public sealed class XmlDiffView {
             }
             else
             {
-                if ( j == 0 )
+                if ( j == 0 || i == 0 )
                     return string.Empty;
 
                 if ( IsWhitespace( chars[j-1] ) )
