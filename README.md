@@ -32,3 +32,5 @@ I have made a modest change to the folder structure (split the code into 'Apps' 
 There are some NET v1.1 obsolete functions being called, that I will address in seperate pull-requests.
 
 If you find any bugs/issues, please open a pull-request!
+
+NOTE that any changes to the code is subject to the MIT License. The original code from Microsoft is subject to the EULA specified in XMLDiff\Doc\XML Diff and Patch EULA.rtf.
