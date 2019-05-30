@@ -1,5 +1,9 @@
 # XmlDiffPatch
  A repository to upgrade Microsoft's XmlDiffPatch project suite to use .NET v4.0 (VS2010 &amp; later)
+ 
+ --------------------------------------------------------------------------------------------------------------
+# NOTE NB: This repository has been superseded by Microsoft's XmlNotepad tool (https://github.com/microsoft/XmlNotepad). I will leave the repo here in case anyone wants/neeeds these older libraries for whatever reason, but the above link should be your 1st port of call if you are looking for a XML viewer/editor/diff tool.
+ --------------------------------------------------------------------------------------------------------------
 
 On https://msdn.microsoft.com/en-us/library/aa302295.aspx you can find an article on Microsoft's 'XML Diff and Patch GUI Tool'. 
 
